@@ -1,4 +1,4 @@
-# Giovannii Dalmasso
+# Giovanni Dalmasso
 
 ---
 
