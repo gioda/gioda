@@ -1,23 +1,27 @@
 <p align="center">
-  <img src="./assets/profile-hero.png" width="100%" alt="Giovanni Dalmasso — Mathematics, Computation and Complex Systems">
+  <img src="./assets/profile-hero2.png" width="100%" alt="Giovanni Dalmasso — Mathematics, Computation and Complex Systems">
 </p>
 
 <p align="center">
-  <strong>Mathematics × Computation × Complex Systems</strong>
-</p>
-
-<p align="center">
-  Models, algorithms and data across scales — from molecules and cells to biological, artificial and human systems.
-</p>
-
-<p align="center">
-  <a href="https://orcid.org/0000-0002-8586-6027">ORCID</a>
-  &nbsp;·&nbsp;
-  <a href="https://merit.url.edu/en/persons/giovanni-dalmasso">Research profile</a>
-  &nbsp;·&nbsp;
-  <a href="https://iqs.edu/en/iqs/human-team/giovanni-dalmasso-phd/">IQS</a>
-  &nbsp;·&nbsp;
-  <a href="https://es.linkedin.com/in/giovanni-dalmasso">LinkedIn</a>
+  <a href="https://scholar.google.com/citations?user=w1sU__cAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-D9EAF7?style=flat-square&logo=googlescholar&logoColor=4F6070" alt="Google Scholar">
+  </a>
+  &nbsp;
+  <a href="https://orcid.org/0000-0002-8586-6027">
+    <img src="https://img.shields.io/badge/ORCID-DDF3E4?style=flat-square&logo=orcid&logoColor=4F6A57" alt="ORCID">
+  </a>
+  &nbsp;
+  <a href="https://merit.url.edu/en/persons/giovanni-dalmasso">
+    <img src="https://img.shields.io/badge/Research%20Profile-E8DFF5?style=flat-square&logoColor=665B73" alt="Research Profile">
+  </a>
+  &nbsp;
+  <a href="https://iqs.edu/en/iqs/human-team/giovanni-dalmasso-phd/">
+    <img src="https://img.shields.io/badge/IQS-FCE1D5?style=flat-square&logoColor=725D54" alt="IQS">
+  </a>
+  &nbsp;
+  <a href="https://es.linkedin.com/in/giovanni-dalmasso">
+    <img src="https://img.shields.io/badge/LinkedIn-DCE3F5?style=flat-square&logo=linkedin&logoColor=53617B" alt="LinkedIn">
+  </a>
 </p>
 
 ---
@@ -38,7 +42,7 @@ Rather than being tied to a single application domain, I am especially intereste
 <tr>
 <td width="33%" valign="top">
 
-### ∂ Mathematics & modelling
+### 🩵 ∂ Mathematics & modelling
 
 Differential equations  
 Stochastic processes  
@@ -49,7 +53,7 @@ Mathematical modelling
 </td>
 <td width="33%" valign="top">
 
-### ◉ Scientific computing
+### 🌿 ◉ Scientific computing
 
 Numerical simulation  
 Algorithms  
@@ -60,7 +64,7 @@ Reproducible computation
 </td>
 <td width="33%" valign="top">
 
-### ⚛ Molecular systems
+### 🪻 ⚛ Molecular systems
 
 Molecular dynamics  
 Molecular modelling  
@@ -74,7 +78,7 @@ Computational biophysics
 <tr>
 <td width="33%" valign="top">
 
-### ◌ Biological systems
+### 🌱 ◌ Biological systems
 
 Systems biology  
 Morphogenesis  
@@ -85,7 +89,7 @@ Multiscale biology
 </td>
 <td width="33%" valign="top">
 
-### ⟡ Artificial intelligence
+### 💜 ⟡ Artificial intelligence
 
 Machine learning  
 Neural networks  
@@ -96,7 +100,7 @@ Computational inference
 </td>
 <td width="33%" valign="top">
 
-### ◇ Humans, AI & society
+### 🧡 ◇ Humans, AI & society
 
 Moral decision-making  
 AI ethics  
@@ -118,21 +122,27 @@ Environmental and ecological systems also appear as application domains within t
 <tr>
 <td width="50%" valign="top">
 
-### [∂ Cálculo Diferencial en una Variable](https://github.com/gioda/calculo-diferencial-en-una-variable)
+### 🩵 [∂ Cálculo Diferencial en una Variable](https://github.com/gioda/calculo-diferencial-en-una-variable)
 
 An open university mathematics project combining rigorous theory, extensive problem collections and computational resources.
 
-`mathematics` `open education` `LaTeX` `Python` `reproducibility`
+![Mathematics](https://img.shields.io/badge/mathematics-D9EAF7?style=flat-square)
+![Open education](https://img.shields.io/badge/open%20education-FBE4D8?style=flat-square)
+![LaTeX](https://img.shields.io/badge/LaTeX-E8DFF5?style=flat-square)
+![Python](https://img.shields.io/badge/Python-DDF3E4?style=flat-square)
 
 </td>
 
 <td width="50%" valign="top">
 
-### [◉ FeARLesS](https://github.com/gioda/FeARLesS)
+### 🌱 [◉ FeARLesS](https://github.com/gioda/FeARLesS)
 
 4D reconstruction and analysis of developmental trajectories using spherical harmonics, connecting mathematical representations, scientific computing and biological morphogenesis.
 
-`computational biology` `morphogenesis` `spherical harmonics` `Python` `VTK`
+![Computational biology](https://img.shields.io/badge/computational%20biology-DDF3E4?style=flat-square)
+![Morphogenesis](https://img.shields.io/badge/morphogenesis-E5F0DC?style=flat-square)
+![Spherical harmonics](https://img.shields.io/badge/spherical%20harmonics-D9EAF7?style=flat-square)
+![VTK](https://img.shields.io/badge/VTK-E8DFF5?style=flat-square)
 
 </td>
 </tr>
@@ -140,23 +150,29 @@ An open university mathematics project combining rigorous theory, extensive prob
 <tr>
 <td width="50%" valign="top">
 
-### [∿ Lie splitting & correlated random walks](https://github.com/gioda/lie-splitting-correlated-random-walk)
+### 🪻 [∿ Lie splitting & correlated random walks](https://github.com/gioda/lie-splitting-correlated-random-walk)
 
 Research at the intersection of stochastic modelling, numerical mathematics and computational simulation.
 
-`applied mathematics` `stochastic processes` `numerical methods` `simulation`
+![Applied mathematics](https://img.shields.io/badge/applied%20mathematics-D9EAF7?style=flat-square)
+![Stochastic processes](https://img.shields.io/badge/stochastic%20processes-E8DFF5?style=flat-square)
+![Numerical methods](https://img.shields.io/badge/numerical%20methods-DCEAF2?style=flat-square)
+![Simulation](https://img.shields.io/badge/simulation-DDF3E4?style=flat-square)
 
 </td>
 
 <td width="50%" valign="top">
 
-### [◈ vedo](https://github.com/marcomusy/vedo)
+### 🌿 [◈ vedo](https://github.com/marcomusy/vedo)
 
 Open-source Python library for scientific analysis and visualization of 3D objects and data.
 
 I am a **contributor** to the project and use it extensively across my own scientific work.
 
-`scientific visualization` `3D data` `Python` `VTK` `scientific computing`
+![Scientific visualization](https://img.shields.io/badge/scientific%20visualization-DDF3E4?style=flat-square)
+![3D data](https://img.shields.io/badge/3D%20data-D9EAF7?style=flat-square)
+![Python](https://img.shields.io/badge/Python-FBE4D8?style=flat-square)
+![VTK](https://img.shields.io/badge/VTK-E8DFF5?style=flat-square)
 
 </td>
 </tr>
@@ -185,13 +201,15 @@ Alongside research, I develop open educational resources, computational teaching
 ---
 
 <p align="center">
-  <strong>Ideas · Models · Algorithms · Data · Systems · Real-world problems</strong>
+  <img src="https://img.shields.io/badge/Ideas-D9EAF7?style=flat-square">
+  <img src="https://img.shields.io/badge/Models-E8DFF5?style=flat-square">
+  <img src="https://img.shields.io/badge/Algorithms-DDF3E4?style=flat-square">
+  <img src="https://img.shields.io/badge/Data-FCE1D5?style=flat-square">
+  <img src="https://img.shields.io/badge/Systems-F8E6C4?style=flat-square">
+  <img src="https://img.shields.io/badge/Real--world%20problems-DCE3F5?style=flat-square">
 </p>
 
 <p align="center">
-  Research · Teaching · Open Science
-</p>
-
-<p align="center">
+  <strong>Research · Teaching · Open Science</strong><br>
   Barcelona
 </p>
