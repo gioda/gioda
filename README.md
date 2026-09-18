@@ -2,6 +2,8 @@
   <img src="./assets/profile-hero2.png" width="100%" alt="Giovanni Dalmasso — Mathematics, Computation and Complex Systems">
 </p>
 
+<p align="center"><sub><em>Hero artwork generated with AI and curated for this profile.</em></sub></p>
+
 <p align="center">
   <a href="https://scholar.google.com/citations?user=w1sU__cAAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-D9EAF7?style=flat-square&logo=googlescholar&logoColor=4F6070" alt="Google Scholar">
