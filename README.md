@@ -38,6 +38,13 @@ Rather than being tied to a single application domain, I am especially intereste
 
 <br>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/research-motion-static.svg">
+    <img src="./assets/research-motion.svg" width="100%" alt="Animated mathematical models, molecular simulations, cellular structures and connected systems">
+  </picture>
+</p>
+
 ## Research landscape
 
 <table>
