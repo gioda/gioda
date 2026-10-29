@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/profile-hero2.png" width="100%" alt="Giovanni Dalmasso — Mathematics, Computation and Complex Systems">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.webp">
+    <img src="./assets/profile-hero2.png" width="100%" alt="Giovanni Dalmasso — Mathematics, Computation and Complex Systems">
+  </picture>
 </p>
 
 <p align="center"><sub><em>Hero artwork generated with AI and curated for this profile.</em></sub></p>
@@ -40,8 +43,10 @@ Rather than being tied to a single application domain, I am especially intereste
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: light) and (prefers-reduced-motion: reduce)" srcset="./assets/research-motion-light-static.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/research-motion-light.svg">
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/research-motion-static.svg">
-    <img src="./assets/research-motion.svg" width="100%" alt="Animated mathematical models, molecular simulations, cellular structures and connected systems">
+    <img src="./assets/research-motion.svg" width="100%" alt="Mathematical models, molecular simulations, cellular structures and connected systems">
   </picture>
 </p>
 
